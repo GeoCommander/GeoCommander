@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @GeoCommander
+- 👋 Hi, I’m GIO
 - 👀 I’m interested in Data Engineering
 - 🌱 I’m currently learning Python, SQL, AirFlow
 - 💞️ I’m looking to collaborate on ...
