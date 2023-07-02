@@ -1,5 +1,2 @@
-- 👋 Hi, I’m GIO
-- 👀 I’m interested in Data Engineering
-- 🌱 I’m currently learning Python, SQL, AirFlow
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me gioe1996@gmail.com 
+- 👋 Hi
+- 📫 reach me at gioe1996@gmail.com 
